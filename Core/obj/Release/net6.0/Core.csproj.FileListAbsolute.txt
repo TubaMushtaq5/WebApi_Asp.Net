@@ -1,0 +1,24 @@
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\bin\Release\net6.0\Core.deps.json
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\bin\Release\net6.0\Core.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\bin\Release\net6.0\Core.pdb
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\obj\Release\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\obj\Release\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\obj\Release\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\obj\Release\net6.0\Core.AssemblyInfo.cs
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\obj\Release\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\obj\Release\net6.0\Core.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\obj\Release\net6.0\refint\Core.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\obj\Release\net6.0\Core.pdb
+C:\Users\admin\source\repos\MyWebApiStudentGPA\Core\obj\Release\net6.0\ref\Core.dll
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\bin\Release\net6.0\Core.deps.json
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\bin\Release\net6.0\Core.dll
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\bin\Release\net6.0\Core.pdb
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\obj\Release\net6.0\Core.csproj.AssemblyReference.cache
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\obj\Release\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\obj\Release\net6.0\Core.AssemblyInfoInputs.cache
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\obj\Release\net6.0\Core.AssemblyInfo.cs
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\obj\Release\net6.0\Core.csproj.CoreCompileInputs.cache
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\obj\Release\net6.0\Core.dll
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\obj\Release\net6.0\refint\Core.dll
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\obj\Release\net6.0\Core.pdb
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\Core\obj\Release\net6.0\ref\Core.dll

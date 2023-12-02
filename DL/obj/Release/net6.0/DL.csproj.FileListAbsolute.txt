@@ -1,0 +1,30 @@
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\bin\Release\net6.0\DL.deps.json
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\bin\Release\net6.0\DL.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\bin\Release\net6.0\DL.pdb
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\bin\Release\net6.0\Core.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\bin\Release\net6.0\Core.pdb
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\obj\Release\net6.0\DL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\obj\Release\net6.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\obj\Release\net6.0\DL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\obj\Release\net6.0\DL.AssemblyInfo.cs
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\obj\Release\net6.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\obj\Release\net6.0\DL.csproj.CopyComplete
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\obj\Release\net6.0\DL.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\obj\Release\net6.0\refint\DL.dll
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\obj\Release\net6.0\DL.pdb
+C:\Users\admin\source\repos\MyWebApiStudentGPA\DL\obj\Release\net6.0\ref\DL.dll
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\obj\Release\net6.0\DL.csproj.AssemblyReference.cache
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\obj\Release\net6.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\obj\Release\net6.0\DL.AssemblyInfoInputs.cache
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\obj\Release\net6.0\DL.AssemblyInfo.cs
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\obj\Release\net6.0\DL.csproj.CoreCompileInputs.cache
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\obj\Release\net6.0\DL.dll
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\obj\Release\net6.0\refint\DL.dll
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\obj\Release\net6.0\DL.pdb
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\bin\Release\net6.0\DL.deps.json
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\bin\Release\net6.0\DL.dll
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\bin\Release\net6.0\DL.pdb
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\bin\Release\net6.0\Core.dll
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\bin\Release\net6.0\Core.pdb
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\obj\Release\net6.0\DL.csproj.CopyComplete
+E:\university\7th sem\EAD\Assignment2\vectwiz-ead-db300a20625f\DL\obj\Release\net6.0\ref\DL.dll
